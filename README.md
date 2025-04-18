@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @odimsw
+- 👋 Hi, I’m odimegwu winner
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me instagram @odimsw
+- 📫 How to reach me instagram @odimsw(https://www.instagram.com/odimsw/)
 - 😄 Pronouns: him
 - ⚡ Fun fact: i'm still a rookie
 
